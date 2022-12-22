@@ -1,5 +1,5 @@
 ## 🙃 About me
-I'm ThijsNameIsTaken, or Thijs for short. I live in The Netherlands and am in Dutch Middle-high school.
+I'm ThijsNameIsTaken, or Thijs for short. I live in The Netherlands and am following the college study Train Driver.
 
 ## 🔭 I’m currently working on
 Probably too many things at once.
@@ -11,7 +11,7 @@ C# and maybe something else.
 Anything, but I might not be able to answer everything 😉
 
 ## 📫 How to reach me:
-My Discord is ThijsNameIsTaken#5123, if you need something else go look it up on my ~~OMG.LOL page~~ The page is dead 😭. Discord is the best platform to directly message me on, I almost never use Twitter, lol.
+My Discord is ThijsNameIsTaken#5123. Discord is the best platform to directly message me on, I almost never use Twitter, lol.
 
 ## ⚡ Fun fact:
 I started programming when I was around 9 or 10 years old. Our school had (and still has) a public library and the librarian suggested programming to me.
