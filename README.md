@@ -16,15 +16,9 @@ My Discord is ThijsNameIsTaken#5123. Discord is the best platform to directly me
 ## ⚡ Fun fact:
 I started programming when I was around 9 or 10 years old. Our school had (and still has) a public library and the librarian suggested programming to me.
 
-<!--
 ![ThijsNameIsTaken's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThijsNameIsTaken&show_icons=true&theme=midnight-purple&count_private=true)
 &nbsp;&nbsp;&nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThijsNameIsTaken&theme=midnight-purple&layout=compact)
--->
-
-![ThijsNameIsTaken's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=ThijsNameIsTaken&show_icons=true&theme=midnight-purple&count_private=true)
-&nbsp;&nbsp;&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=ThijsNameIsTaken&theme=midnight-purple&layout=compact)
 
 <!--
 Yes GitHub, we know. I only keep this to copy paste something hahaha
