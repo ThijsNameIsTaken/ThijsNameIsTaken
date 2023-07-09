@@ -2,16 +2,16 @@
 I'm ThijsNameIsTaken, or Thijs for short. I live in The Netherlands and am following the college study Train Driver.
 
 ## 🔭 I’m currently working on
-Probably too many things at once.
+Mostly plugins for the game SCP: Secret Laboratory. Sometimes other random things.
 
 ## 🌱 I’m currently learning
-C# and maybe something else.
+Improving my C# knowledge.
 
 ## 💬 Ask me about
 Anything, but I might not be able to answer everything 😉
 
 ## 📫 How to reach me:
-My Discord is ThijsNameIsTaken#5123. Discord is the best platform to directly message me on, I almost never use Twitter, lol.
+My Discord is ~~ThijsNameIsTaken#5123~~ thijsnameistaken. Discord is the best platform to directly message me on, I almost never use Twitter, lol.
 
 ## ⚡ Fun fact:
 I started programming when I was around 9 or 10 years old. Our school had (and still has) a public library and the librarian suggested programming to me.
